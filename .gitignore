@@ -1,0 +1,7 @@
+.history/
+__pycache__/
+.vscode/
+__pycache__/
+venv/
+snippets.txt
+readme_test.ipynb.txt
