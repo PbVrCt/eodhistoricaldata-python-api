@@ -406,6 +406,8 @@ def stock_screener(
     return stocks
 
 
+# TODO Be more specific when exception handling
+
 # TODO? Add:
 #   technical indicators, options, live,
 #   fundamentals: index, etfs, macro indicators, bonds, goverment bonds, cds, insider trading, etc
