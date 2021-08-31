@@ -144,4 +144,4 @@ Finds first n stocks in exchange by marketcap
 I don't plan to maintain this.<br/>
 However, I created a `EODdata` class inside the `EOD_api.py` that you can subclass to add more types of data. This way you might download all of your data from [eodhistoricaldata.com](https://eodhistoricaldata.com) in a streamlined way.
 You can check all of the data types they offer in their website. For example you could include options, bonds, live data, financial news, insider trading, etc. <br/>
-If you found any of this useful I would appreciate you letting me know.
+If you found any of this useful I would appreciate feedback.
